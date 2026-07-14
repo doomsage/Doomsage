@@ -1,5 +1,5 @@
 # 💫 About Me:
-👤 About Me<br>🔭 I’m currently working on Arduino, ESP8266, and small automation projects<br>🤝 I’m looking to collaborate on beginner-friendly tech and IoT projects<br>🆘 I’m looking for help with advanced ESP8266 networking & cybersecurity basics<br>🌱 I’m currently learning Python, JavaScript, OSINT, and automation<br>💬 Ask me about Arduino, ESP8266, basic cybersecurity, and tech projects<br>⚡ Fun fact: I love building futuristic, sci-fi-style tech projects<br>📌 Personal Info<br>• Name: Kunal Dewangan<br>• Age: —16<br>• DOB: —30/06/2009<br>• City: —NARAYANPUR<br>• Studying at: — AVANTI FELLOW, JNV CUTTACK 
+👤 About Me<br>🔭 I’m currently working on Arduino, ESP8266, and small automation projects<br>🤝 I’m looking to collaborate on beginner-friendly tech and IoT projects<br>🆘 I’m looking for help with advanced ESP8266 networking & cybersecurity basics<br>🌱 I’m currently learning Python, JavaScript, OSINT, and automation<br>💬 Ask me about Arduino, ESP8266, basic cybersecurity, and tech projects<br>⚡ Fun fact: I love building futuristic, sci-fi-style tech projects<br>📌 Personal Info<br>• Name: Kunal Dewangan<br>• Age: —16<br>• DOB: —30/06/2009<br>• City: —NARAYANPUR<br> 
 
 
 ## 🌐 Socials:
